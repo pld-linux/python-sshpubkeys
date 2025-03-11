@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Parser kluczy publicznych SSH
 Name:		python-sshpubkeys
 # keep 3.1.x here for python2 support
 Version:	3.1.0
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sshpubkeys/
